@@ -10,4 +10,4 @@ Api Link <br/>
   World:https://covid-19-status-tracker.herokuapp.com/world   <br/>
 
 Made for learning purpose.
-# karuna-Api-Scrapper-
+# Corona-Api-Scrapper-

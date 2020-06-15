@@ -1,6 +1,7 @@
 Covid-19 tracker of india State-wise and world <br/>
 <br/>
-
+*****NOTE**** <br/>
+Curentlu my instances are down so this API won't work.<br/>
 Data source <br/>
   India:https://www.mohfw.gov.in/  <br/>
   World:https://www.worldometers.info/coronavirus <br/>
